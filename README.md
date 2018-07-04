@@ -1,2 +1,2 @@
 # vscode-config-vim
-vscode - vim configuration
+Copy into User settings in vscode
